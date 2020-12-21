@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a freelancer coding girl trying to get better at whatever I'm doing.
+
 Currently, I'm working on AI related things, because everyone seems to do AI...
 
 Two things I still want to get into is Emacs and tmux, the cool coders I look up to
